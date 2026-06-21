@@ -228,10 +228,10 @@ Car_Sales_Analysis/
 
 # 🔗 Author
 
-**Sachin**
+**Tharun Shree**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 # 🔗 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sachindevarajan
+- LinkedIn: www.linkedin.com/in/tharunshree
